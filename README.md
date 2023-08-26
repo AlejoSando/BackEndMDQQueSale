@@ -10,6 +10,7 @@ Por ahora crearemos funciones sencillas para que funcione la aplicacion visualme
       -Botones
       -Algo mas probablemente
 -Funcionalidades:
+
        -Que cada boton haga lo correspondiente como:
                   -Dirigir al link proporcionado por la base de datos
                   -Mostrar o mandar a marcar el numero de telefono del lugar  o actividad
